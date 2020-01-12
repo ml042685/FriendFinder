@@ -16,6 +16,12 @@ Requirements
 
 -Calculate best match for user once survey is completed and return that match to the user
 
+Images-
+
+https://github.com/ml042685/FriendFinder/blob/master/app/images/FriendFinder1.JPG
+
+
+
 Technologies Used
 
 JavaScript
