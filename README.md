@@ -6,7 +6,7 @@ Modularity in the form of separate files for server logic, storing of friends, v
 10-question survey to assess uniqueness of users
 Use express, body-parser, and path npm packages in the server.js file
 Separate JavaScript files for routing (htmlRoutes.js and apiRoutes.js)
-Appropriate GET and POST routes for serving HTML pages and API callshttps://murmuring-island-94264.herokuapp.com/
+Appropriate GET and POST routes for serving HTML pages and API call
 Separate file for storing friends (friends.js)
 Calculate best match for user once survey is completed and return that match to the user
 
