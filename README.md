@@ -20,6 +20,8 @@ Images-
 
 https://github.com/ml042685/FriendFinder/blob/master/app/images/FriendFinder1.JPG
 
+https://github.com/ml042685/FriendFinder/blob/master/app/images/FriendFinder2.JPEG
+
 
 
 Technologies Used
