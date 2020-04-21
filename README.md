@@ -1,5 +1,3 @@
-https://thefriendfinderapp13.herokuapp.com/
-
 # FriendFinder
 
 Requirements
@@ -26,16 +24,15 @@ https://github.com/ml042685/FriendFinder/blob/master/app/images/FriendFinder2.JP
 
 
 
-Technologies Used
+## Technologies Used
+* JavaScript
+* jQuery
+* node.js
+* Express.js
+* HTML
+* Bootstrap
 
-JavaScript
-jQuery
-node.js
-Express.js
-HTML
-Bootstrap
-
-Code Explanation
+## Code Explanation
 
 -Our server.js file sets up the Express server, specifying our port number, the npm packages that need to be loaded, and also the routes, which we have externalized
 
@@ -49,3 +46,5 @@ Code Explanation
 
 -In essense, this will also be a form of notes that you may later reference weeks later
 
+### Links
+https://thefriendfinderapp13.herokuapp.com/
